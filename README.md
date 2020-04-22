@@ -1,4 +1,4 @@
-### SQL Challenge - Employee Database: A Mystery in Two Parts
+### SQL Challenge - Employee Database
 
 Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and develop insights about the data. 
 
@@ -14,7 +14,7 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 
 #### Data Analysis
 
-* Conduct a series of inquiries within database i.e:
+* Conduct a series of inquiries within database(s)
 
 
 
