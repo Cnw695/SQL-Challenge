@@ -6,7 +6,7 @@ Tools:
 
 * Data Analysis Query -->>>>>>>>>>>>>SQL-Challenge/Final.sql
 * SQL Exported to QuickBDB-->>>>>>>>>SQL-Challenge/QuickDBD-export.png
-* 
+
 
 
 
