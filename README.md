@@ -1,5 +1,7 @@
 ### SQL Challenge 
-Tools: 
+Create tables within Postgresql and make queries to uncover employment trends
+
+#### Tools: 
 * SQL database (Postgresql)
 * SQL Client (pgAdmin)
 * ERD sketch too, such as https://www.quickdatabasediagrams.com/
