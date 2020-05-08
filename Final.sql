@@ -13,6 +13,7 @@ SELECT  first_name, last_name, hire_date FROM employees WHERE hire_date between 
 
 --3.List the manager of each department with the following information: department number, department name,
 --the manager's employee number, last name, first name, and start and end employment dates.
+--review tables and see if I can join a table to itself to produce the required values
 /*
 SELECT dept_manager.dept_no, departments.dept_name, dept_manager.emp_no, 
 employees.last_name, employees.first_name, dept_manager.from_date, dept_manager.to_date 
