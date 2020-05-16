@@ -50,3 +50,9 @@ WHERE departments.dept_name LIKE 'Develop%' OR departments.dept_name='Sales';*/
 
 --8.In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 --SELECT last_name, COUNT(last_name) FROM employees GROUP BY last_name;
+
+--Find max salary after join tables
+--select * from salaries s
+--inner join employees e 
+--on e.emp_no=s.emp_no
+--where salary in ( select max(salary) from salaries);
